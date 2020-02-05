@@ -1,3 +1,8 @@
 documents
 coverage.txt
 _book
+.idea/vcs.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/gorm.iml
