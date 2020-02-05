@@ -42,3 +42,5 @@ Released under the [MIT License](https://github.com/jinzhu/gorm/blob/master/Lice
 
 
 ## start  reading on 2020-02-05
+
+主要是参看代码
