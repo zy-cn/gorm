@@ -41,4 +41,4 @@ The fantastic ORM library for Golang, aims to be developer friendly.
 Released under the [MIT License](https://github.com/jinzhu/gorm/blob/master/License)
 
 
-## start to reading on 2020-02-05
+## start  reading on 2020-02-05
